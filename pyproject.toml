@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "fooddata"
-version = "0.1.0"
+version = "0.1.1"
 description = "Download, build, and query the USDA food database"
 authors = ["Marc Ford <mrfxyz567@gmail.com>"]
 license = "MIT"
